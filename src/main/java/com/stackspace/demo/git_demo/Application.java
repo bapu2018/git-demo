@@ -6,7 +6,6 @@ public class Application {
         System.out.println("Hello git_demo");
     }
     public void addData(String data){
-    	System.out.println(data);
     	if(data.equals("Bapu")){
     		System.out.println("welcome to Bapu");
     	}
