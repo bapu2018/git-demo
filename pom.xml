@@ -17,10 +17,6 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <skipTests>true</skipTests>
-
-        <log.level>DEBUG</log.level>
-        <log.path>/data/logs</log.path>
     </properties>
 
     <build>
