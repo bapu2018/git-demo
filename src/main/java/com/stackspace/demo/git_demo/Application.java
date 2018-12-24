@@ -12,5 +12,9 @@ public class Application {
     	}
     	
     }
+    public void add(int sNo){
+  		System.out.println(sNo);
+
+    }
 
 }
