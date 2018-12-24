@@ -7,6 +7,9 @@ public class Application {
     }
     public void addData(String data){
     	System.out.println(data);
+    	if(data.equals("Bapu")){
+    		System.out.println("welcome");
+    	}
     	
     }
 
